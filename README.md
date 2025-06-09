@@ -1,5 +1,5 @@
 ## Hi there 👋
-# I am Abdullahi
+## I am Abdullahi
 
 I am a data analyst with a background in Computer Science and a passion for transforming raw data into clear, actionable insights. This space is where I share some of the projects I’ve worked on whether it's exploring data, building dashboards, or running analysis.
 
